@@ -46,7 +46,7 @@
 - coins.co.th - one of Thailand's largest Bitcoin brokers/exchange
 - bitcoin.co.th - one of Thailand's largest Bitcoin brokers/exchange
 - MaiCoin - Taiwanese Bitcoin exchange
-- Bitonic - Dutch Bitcoin broker
+- [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - Bitrush - Dutch Bitcoin broker
 - BitBay - Bitcoin broker based in Poland
 - Bitcoin Romania - largest Romanian Bitcoin exchange & broker
@@ -72,7 +72,7 @@
 - Mycelium - popular Android Bitcoin wallet
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
-- [Bitrated](https://twitter.com/bitrated/status/876805892003553281) - reputation and consumer protection
+- [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
 
 ### Need clarification:
 
