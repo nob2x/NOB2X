@@ -32,8 +32,6 @@
 - Satoshi Tango - Latin American Bitcoin exchange
 - Mercado Bitcoin - Brazilian Bitcoin exchange
 - FOXBIT - Brazilian Bitcoin exchange
-- OKCoin - Chinese Bitcoin exchange
-- Huobi - Chinese Bitcoin exchange
 - LakeBTC - Bitcoin exchange
 - Gatecoin - Bitcoin exchange
 - Bitrefill - mobile phone topups with Bitcoin
@@ -72,6 +70,11 @@
 - Samourai Wallet - Android Bitcoin wallet
 - breadwallet - most popular iOS Bitcoin wallet
 - Mycelium - popular Android Bitcoin wallet
+
+### Need clarification:
+
+- OKCoin - Chinese Bitcoin exchange
+- Huobi - Chinese Bitcoin exchange
 
 ---
 
