@@ -75,4 +75,4 @@
 
 ---
 
-*See something wrong, change your mind or want to be added? Make a PR here https://github.com/nob2x/nob2x/pulls*
+*See something wrong, changed your mind or want to be added? Make a PR here https://github.com/nob2x/nob2x/pulls*
