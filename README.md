@@ -71,6 +71,7 @@
 - breadwallet - most popular iOS Bitcoin wallet
 - Mycelium - popular Android Bitcoin wallet
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
+- [Bitstop](https://bitstop.co/) - Bitcoin ATM operator
 
 ### Need clarification:
 
