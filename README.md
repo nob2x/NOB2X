@@ -68,7 +68,6 @@
 - GreenAddress - Bitcoin web wallet
 - Slush Pool - Bitcoin mining pool
 - Samourai Wallet - Android Bitcoin wallet
-- breadwallet - most popular iOS Bitcoin wallet
 - Mycelium - popular Android Bitcoin wallet
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
