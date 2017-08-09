@@ -72,3 +72,7 @@
 - Samourai Wallet - Android Bitcoin wallet
 - breadwallet - most popular iOS Bitcoin wallet
 - Mycelium - popular Android Bitcoin wallet
+
+---
+
+*See something wrong, change your mind or want to be added? Make a PR here https://github.com/nob2x/nob2x/pulls*
