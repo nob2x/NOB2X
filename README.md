@@ -78,6 +78,7 @@
 - [BHB.network](http://bhb.network) - Applied research lab - Community, competence, contamination.
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
+- [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 
 ### Need clarification:
 
