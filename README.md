@@ -86,5 +86,7 @@
 - [breadwallet](https://twitter.com/breadwalletapp/status/895368562096955392) - most popular iOS Bitcoin wallet
 
 ---
+*This list originated from a reddit colection later post on [PasteBin](https://pastebin.com/ek5V1grM).
+If you see something wrong, changed your mind or want to be added? Just make a PR here https://github.com/nob2x/nob2x/pulls*
 
-*See something wrong, changed your mind or want to be added? Make a PR here https://github.com/nob2x/nob2x/pulls*
+
