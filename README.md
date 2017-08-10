@@ -69,6 +69,7 @@
 - Slush Pool - Bitcoin mining pool
 - Samourai Wallet - Android Bitcoin wallet
 - Mycelium - popular Android Bitcoin wallet
+- Xotika.tv - Bitcoin Social Video-Streaming Platform
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
