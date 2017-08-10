@@ -1,3 +1,6 @@
+
+![](DG4IEcsUIAAje5w.jpg)
+
 # List of B2X **non** supporters.
 
 - Bitfinex - one of the world's largest Bitcoin exchanges
