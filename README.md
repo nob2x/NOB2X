@@ -43,7 +43,6 @@
 - Bitt - Caribbean Bitcoin exchange
 - bitcoin.co.id - Indonesia's largest Bitcoin exchange
 - Coincheck - one of Japan's largest Bitcoin exchanges
-- coins.co.th - one of Thailand's largest Bitcoin brokers/exchange
 - bitcoin.co.th - one of Thailand's largest Bitcoin brokers/exchange
 - MaiCoin - Taiwanese Bitcoin exchange
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
