@@ -80,6 +80,7 @@
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - [OXT](https://oxt.me) - Blockchain explorer
+- [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - notification service
 
 ### Need clarification:
 
