@@ -75,6 +75,7 @@
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
+- [BHB.network](http://bhb.network) - Applied research lab - Community, competence, contamination.
 
 ### Need clarification:
 
