@@ -63,7 +63,6 @@
 - Anycoin Direct - European Bitcoin broker
 - Belgacoin - large European Bitcoin exchange/broker
 - Bisq - decentralized Bitcoin exchange
-- KeepKey - hardware Bitcoin wallet
 - Ledger Wallet - hardware Bitcoin wallet
 - TREZOR - hardware Bitcoin wallet
 - Electrum - Bitcoin desktop wallet
