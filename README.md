@@ -74,7 +74,7 @@
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
-- [BHB.network](http://bhb.network) - Applied research lab - Community, competence, contamination.
+- [BHB.network](http://bhb.network) - Applied research lab - Consultancy firm, competence center and incubator
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
