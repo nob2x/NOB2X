@@ -80,6 +80,7 @@
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - [OXT](https://oxt.me) - Blockchain explorer
 - [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - notification service
+- Lightning Labs - building lightning network layer 2 infrastructure
 
 ### Need clarification:
 
