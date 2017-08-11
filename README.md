@@ -81,7 +81,8 @@
 - [OXT](https://oxt.me) - Blockchain explorer
 - [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - notification service
 - Lightning Labs - building lightning network layer 2 infrastructure
-- [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection 
+- [HolyTransaction](https://holytransaction.com) - one of the oldest multi-currency web wallet
+- [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection
 
 ### Need clarification:
 
