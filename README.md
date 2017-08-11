@@ -49,7 +49,7 @@
 - MaiCoin - Taiwanese Bitcoin exchange
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - Bitrush - Dutch Bitcoin broker
-- BitBay - Bitcoin broker based in Poland
+- [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
 - Bitcoin Romania - largest Romanian Bitcoin exchange & broker
 - Nairaex - Nigeria's largest Bitcoin exchange
 - Bitsewa - Nepal's largest Bitcoin exchange
