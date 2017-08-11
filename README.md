@@ -19,7 +19,6 @@
 - CEX.io - top global Bitcoin and crypto exchange
 - coinhouse - credit card to Bitcoin broker run by Ledger
 - Bitcoin.de - one of Europe's largest P2P Bitcoin exchanges
-- Bittylicious - one of the UK's largest Bitcoin brokers
 - Coinfloor - European Bitcoin broker and exchange
 - BitBargain - UK Bitcoin exchangd
 - Paymium - Bitcoin broker based in France
@@ -50,7 +49,7 @@
 - MaiCoin - Taiwanese Bitcoin exchange
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - Bitrush - Dutch Bitcoin broker
-- BitBay - Bitcoin broker based in Poland
+- [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
 - Bitcoin Romania - largest Romanian Bitcoin exchange & broker
 - Nairaex - Nigeria's largest Bitcoin exchange
 - Bitsewa - Nepal's largest Bitcoin exchange
@@ -63,7 +62,6 @@
 - Anycoin Direct - European Bitcoin broker
 - Belgacoin - large European Bitcoin exchange/broker
 - Bisq - decentralized Bitcoin exchange
-- Ledger Wallet - hardware Bitcoin wallet
 - TREZOR - hardware Bitcoin wallet
 - Electrum - Bitcoin desktop wallet
 - GreenAddress - Bitcoin web wallet
@@ -92,6 +90,14 @@
 ### Does not run full nodes:
 
 - [breadwallet](https://twitter.com/breadwalletapp/status/895368562096955392) - most popular iOS Bitcoin wallet
+
+## Maybe / Unsure
+
+- [Bittylicious](https://twitter.com/Bittylicious_/status/896052556140380160) - one of the UK's largest Bitcoin brokers
+
+## Will Support Post Fork
+
+- [Ledger Wallet](https://twitter.com/BTChip/status/896056752948486148) - hardware Bitcoin wallet
 
 ---
 *This list originated from a reddit collection later posted on [PasteBin](https://pastebin.com/ek5V1grM).
