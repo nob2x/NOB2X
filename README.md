@@ -36,7 +36,7 @@
 - FOXBIT - Brazilian Bitcoin exchange
 - LakeBTC - Bitcoin exchange
 - Gatecoin - Bitcoin exchange
-- Bitrefill - mobile phone topups with Bitcoin
+- [Bitrefill](https://twitter.com/bitrefill/status/896300829841510400) - mobile phone topups with Bitcoin
 - CoinJar - Australian Bitcoin broker
 - BuyaBitcoin - Australian cash to bitcoin exchange
 - Coin Loft - Australian cash to Bitcoin exchange
