@@ -82,6 +82,10 @@
 - [HolyTransaction](https://holytransaction.com) - one of the oldest multi-currency web wallet
 - [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
+- [Blockstream](http://blockstream.com) - Blockchain technologies provider
+- [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
+- [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
+- [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
 
 ### Need clarification:
 
