@@ -84,6 +84,7 @@
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
 - [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
+- [Coinkite](https://coinkite.com) - Bitcoin infrastructure solutions
 - [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
 - [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
 
