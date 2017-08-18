@@ -108,7 +108,9 @@
 
 ---
 *This list originated from a reddit collection later posted on [PasteBin](https://pastebin.com/ek5V1grM).
-If you see something wrong, changed your mind or want to be added? Just make a PR here https://github.com/nob2x/nob2x/pulls*
+If you see something wrong, changed your mind or want to be added? Just make a [PR here](https://github.com/nob2x/nob2x/pulls)*
+
+Other [lists to check out on Bitcoin Wiki](https://en.bitcoin.it/wiki/Segwit_support)
 
 
 
