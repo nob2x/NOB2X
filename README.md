@@ -4,6 +4,7 @@
 # List of B2X **non** supporters.
 
 - Anycoin Direct - European Bitcoin broker
+- [Azteco](https://azte.co) - Consumer Bitcoin
 - Belgacoin - large European Bitcoin exchange/broker
 - [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection
 - [BHB.network](http://bhb.network) - Applied research lab - Consultancy firm, competence center and incubator
