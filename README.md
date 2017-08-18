@@ -3,95 +3,95 @@
 
 # List of B2X **non** supporters.
 
-- Bitfinex - one of the world's largest Bitcoin exchanges
-- Kraken - world's largest EUR Bitcoin exchange based on volume
-- LocalBitcoins - world's largest P2P Bitcoin exchange
-- Bitstamp - one of the world's largest Bitcoin exchanges
-- Gemini - one of the world's largest Bitcoin exchanges
-- Poloniex - world's largest cryptocurrency exchange
-- Bittrex - world's second largest cryptocurrency exchange
-- BitQuick - major cash to Bitcoin exchange in the USA
-- Vaultoro - gold/bitcoin exchange
-- VirWoX - world's largest Paypal to Bitcoin exchange
-- Zebpay - one of India's largest Bitcoin exchanges
-- CoinMama - one of the world's largest credit card to Bitcoin brokers
-- BitPanda - one of Europe's largest Bitcoin brokers
-- CEX.io - top global Bitcoin and crypto exchange
-- coinhouse - credit card to Bitcoin broker run by Ledger
-- Bitcoin.de - one of Europe's largest P2P Bitcoin exchanges
-- Coinfloor - European Bitcoin broker and exchange
-- BitBargain - UK Bitcoin exchangd
-- Paymium - Bitcoin broker based in France
-- Bity - large European Bitcoin exchange
-- Satoshi Counter - Canadian OTC Bitcoin exchange
-- Bitaccess - Canadia Bitcoin ATM network
-- SurBitcoin - Venezuela's largest Bitcoin exchange
-- Cryptobuyer - Venezuelan Bitcoin exchange
-- bit2c - Israel's top Bitcoin exchange
-- Bits of Gold - Israel's largest Bitcoin broker
-- CoinHako - one of Singapore's largest Bitcoin exchanges
-- Volabit - Mexican Bitcoin exchange
-- Satoshi Tango - Latin American Bitcoin exchange
-- Mercado Bitcoin - Brazilian Bitcoin exchange
-- FOXBIT - Brazilian Bitcoin exchange
-- LakeBTC - Bitcoin exchange
-- Gatecoin - Bitcoin exchange
-- [Bitrefill](https://twitter.com/bitrefill/status/896300829841510400) - mobile phone topups with Bitcoin
-- CoinJar - Australian Bitcoin broker
-- BuyaBitcoin - Australian cash to bitcoin exchange
-- Coin Loft - Australian cash to Bitcoin exchange
-- Urdubit - Bitcoin exchange based in Pakistan
-- Bitcoin Cambodia - Camobdian Bitcoin broker
-- Bitt - Caribbean Bitcoin exchange
-- bitcoin.co.id - Indonesia's largest Bitcoin exchange
-- Coincheck - one of Japan's largest Bitcoin exchanges
-- bitcoin.co.th - one of Thailand's largest Bitcoin brokers/exchange
-- MaiCoin - Taiwanese Bitcoin exchange
-- [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
-- Bitrush - Dutch Bitcoin broker
-- [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
-- Bitcoin Romania - largest Romanian Bitcoin exchange & broker
-- Nairaex - Nigeria's largest Bitcoin exchange
-- Bitsewa - Nepal's largest Bitcoin exchange
-- Wall of Coins - major US cash to Bitcoin exchange
-- LibertyX - major US cash to Bitcoin exchange
-- CoinCorner - European Bitcoin broker
-- Cubits - European Bitcoin broker
-- Bitit - European Bitcoin broker
-- itBit - OTC Bitcoin trading
 - Anycoin Direct - European Bitcoin broker
 - Belgacoin - large European Bitcoin exchange/broker
-- Bisq - decentralized Bitcoin exchange
-- TREZOR - hardware Bitcoin wallet
-- Electrum - Bitcoin desktop wallet
-- GreenAddress - Bitcoin web wallet
-- Slush Pool - Bitcoin mining pool
-- Samourai Wallet - Android Bitcoin wallet
-- Mycelium - popular Android Bitcoin wallet
-- [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
-- [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
-- [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
-- [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
+- [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection
 - [BHB.network](http://bhb.network) - Applied research lab - Consultancy firm, competence center and incubator
-- [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
+- Bisq - decentralized Bitcoin exchange
+- bit2c - Israel's top Bitcoin exchange
+- Bitaccess - Canadia Bitcoin ATM network
+- BitBargain - UK Bitcoin exchangd
+- [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
+- Bitcoin Cambodia - Camobdian Bitcoin broker
+- Bitcoin Romania - largest Romanian Bitcoin exchange & broker
+- bitcoin.co.id - Indonesia's largest Bitcoin exchange
+- bitcoin.co.th - one of Thailand's largest Bitcoin brokers/exchange
+- Bitcoin.de - one of Europe's largest P2P Bitcoin exchanges
+- [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - notification service
+- Bitfinex - one of the world's largest Bitcoin exchanges
+- Bitit - European Bitcoin broker
+- [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
+- BitPanda - one of Europe's largest Bitcoin brokers
+- BitQuick - major cash to Bitcoin exchange in the USA
+- [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - trust and rating system
+- [Bitrefill](https://twitter.com/bitrefill/status/896300829841510400) - mobile phone topups with Bitcoin
+- Bitrush - Dutch Bitcoin broker
+- Bits of Gold - Israel's largest Bitcoin broker
+- Bitsewa - Nepal's largest Bitcoin exchange
+- Bitstamp - one of the world's largest Bitcoin exchanges
+- [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
+- Bitt - Caribbean Bitcoin exchange
+- Bittrex - world's second largest cryptocurrency exchange
+- Bity - large European Bitcoin exchange
+- [Blockstream](http://blockstream.com) - Blockchain technologies provider
+- BuyaBitcoin - Australian cash to bitcoin exchange
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
+- [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
+- CEX.io - top global Bitcoin and crypto exchange
+- [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
+- [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
+- Coin Loft - Australian cash to Bitcoin exchange
+- Coincheck - one of Japan's largest Bitcoin exchanges
+- CoinCorner - European Bitcoin broker
+- Coinfloor - European Bitcoin broker and exchange
+- CoinHako - one of Singapore's largest Bitcoin exchanges
+- coinhouse - credit card to Bitcoin broker run by Ledger
+- CoinJar - Australian Bitcoin broker
+- [Coinkite](https://coinkite.com) - Bitcoin infrastructure solutions
+- CoinMama - one of the world's largest credit card to Bitcoin brokers
+- Cryptobuyer - Venezuelan Bitcoin exchange
+- Cubits - European Bitcoin broker
+- [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
+- Electrum - Bitcoin desktop wallet
+- FOXBIT - Brazilian Bitcoin exchange
+- Gatecoin - Bitcoin exchange
+- Gemini - one of the world's largest Bitcoin exchanges
+- GreenAddress - Bitcoin web wallet
+- [HolyTransaction](https://holytransaction.com) - one of the oldest multi-currency web wallet
+- itBit - OTC Bitcoin trading
+- Kraken - world's largest EUR Bitcoin exchange based on volume
+- LakeBTC - Bitcoin exchange
+- LibertyX - major US cash to Bitcoin exchange
+- Lightning Labs - building lightning network layer 2 infrastructure
+- LocalBitcoins - world's largest P2P Bitcoin exchange
+- MaiCoin - Taiwanese Bitcoin exchange
+- Mercado Bitcoin - Brazilian Bitcoin exchange
+- Mycelium - popular Android Bitcoin wallet
+- Nairaex - Nigeria's largest Bitcoin exchange
+- [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - [OXT](https://oxt.me) - Blockchain explorer
-- [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - notification service
-- Lightning Labs - building lightning network layer 2 infrastructure
-- [HolyTransaction](https://holytransaction.com) - one of the oldest multi-currency web wallet
-- [Bernstein](https://www.bernstein.io) - blockchain-based solutions for intellectual property protection
-- [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
-- [Blockstream](http://blockstream.com) - Blockchain technologies provider
-- [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
-- [Coinkite](https://coinkite.com) - Bitcoin infrastructure solutions
-- [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
-- [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
+- Paymium - Bitcoin broker based in France
+- Poloniex - world's largest cryptocurrency exchange
+- [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
+- Samourai Wallet - Android Bitcoin wallet
+- Satoshi Counter - Canadian OTC Bitcoin exchange
+- Satoshi Tango - Latin American Bitcoin exchange
+- Slush Pool - Bitcoin mining pool
+- SurBitcoin - Venezuela's largest Bitcoin exchange
+- TREZOR - hardware Bitcoin wallet
+- Urdubit - Bitcoin exchange based in Pakistan
+- Vaultoro - gold/bitcoin exchange
+- VirWoX - world's largest Paypal to Bitcoin exchange
+- Volabit - Mexican Bitcoin exchange
+- Wall of Coins - major US cash to Bitcoin exchange
+- [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
+- Zebpay - one of India's largest Bitcoin exchanges
 
 ### Need clarification:
 
-- OKCoin - Chinese Bitcoin exchange
 - Huobi - Chinese Bitcoin exchange
+- OKCoin - Chinese Bitcoin exchange
 
 ### Does not run full nodes:
 
