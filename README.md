@@ -32,7 +32,6 @@
 - Bitstamp - One of the world's largest Bitcoin exchanges
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - Bitt - Caribbean Bitcoin exchange
-- Bittrex - World's second largest cryptocurrency exchange
 - Bity - Large European Bitcoin exchange
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
 - BuyaBitcoin - Australian cash to bitcoin exchange
