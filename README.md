@@ -3,6 +3,7 @@
 
 # List of B2X **non** supporters.
 
+- [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
 - [Azteco](https://azte.co) - Consumer Bitcoin
 - Belgacoin - Large European Bitcoin exchange/broker
@@ -23,6 +24,7 @@
 - Bitit - European Bitcoin broker
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - BitPanda - One of Europe's largest Bitcoin brokers
+- [BitPremier](https://bitpremier.com) - The Bitcoin luxury marketplace
 - BitQuick - Major cash to Bitcoin exchange in the USA
 - [Bitrated](https://medium.com/@shesek/why-i-dont-support-the-compromise-efforts-9d73a8cce6be) - Trust and rating system
 - [Bitrefill](https://twitter.com/bitrefill/status/896300829841510400) - Mobile phone topups with Bitcoin
@@ -52,6 +54,7 @@
 - CoinMama - One of the world's largest credit card to Bitcoin brokers
 - Cryptobuyer - Venezeulan Bitcoin exchange
 - Cubits - European Bitcoin broker
+- [Denarium](https://denarium.com) - Physical BTC coins
 - [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
 - Electrum - Bitcoin desktop wallet
 - FOXBIT - Brazilian Bitcoin exchange
@@ -67,6 +70,7 @@
 - LocalBitcoins - World's largest P2P Bitcoin exchange
 - MaiCoin - Taiwanese Bitcoin exchange
 - Mercado Bitcoin - Brazilian Bitcoin exchange
+- [Metaco](https://metaco.com) - Payment solutions
 - Mycelium - Popular Android Bitcoin wallet
 - Nairaex - Nigeria's largest Bitcoin exchange
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
