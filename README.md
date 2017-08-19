@@ -85,7 +85,8 @@
 - Vaultoro - gold/bitcoin exchange
 - VirWoX - world's largest Paypal to Bitcoin exchange
 - Volabit - Mexican Bitcoin exchange
-- Wall of Coins - major US cash to Bitcoin exchange
+- Wall of Coins - major US cash to Bitcoin exchange]
+- Walltime - Brazilian Bitcoin exchange
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - one of India's largest Bitcoin exchanges
 
