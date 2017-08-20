@@ -89,6 +89,7 @@
 - Slush Pool - Bitcoin mining pool
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
+- [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
 - Urdubit - Bitcoin exchange based in Pakistan
 - Vaultoro - Gold/bitcoin exchange
 - VirWoX - World's largest Paypal to Bitcoin exchange
