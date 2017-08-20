@@ -14,14 +14,17 @@
 - Bitaccess - Canadian Bitcoin ATM network
 - BitBargain - UK Bitcoin exchange
 - [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
+- [BitcoinBrains](http://bitcoinbrains.com) - Canada ATMs and online brokerage service
 - Bitcoin Cambodia - Cambodian Bitcoin broker
 - Bitcoin Romania - Largest Romanian Bitcoin exchange & broker
 - bitcoin.co.id - Indonesia's largest Bitcoin exchange
 - bitcoin.co.th - One of Thailand's largest Bitcoin brokers/exchange
 - Bitcoin.de - One of Europe's largest P2P Bitcoin exchanges
 - [BitcoinReminder](https://bitcoinreminder.com/informations/poli/) - Notification service
+- [BitcoinSolutions](http://bitcoinsolutions.ca) - Buy and sell bitcoin online and at Canada ATMs
 - Bitfinex - One of the world's largest Bitcoin exchanges
 - Bitit - European Bitcoin broker
+- [BitNational](https://bitnational.com) - Canada's Bitcoin ATM network
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - BitPanda - One of Europe's largest Bitcoin brokers
 - [BitPremier](https://bitpremier.com) - The Bitcoin luxury marketplace
@@ -79,6 +82,7 @@
 - Paymium - Bitcoin broker based in France
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
+- [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
 - Samourai Wallet - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
