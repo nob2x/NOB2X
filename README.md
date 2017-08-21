@@ -79,6 +79,7 @@
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - [OXT](https://oxt.me) - Blockchain explorer
+- [Paycase](https://paycase.com) - Paycase Remit
 - Paymium - Bitcoin broker based in France
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
