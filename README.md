@@ -41,6 +41,7 @@
 - Bity - Large European Bitcoin exchange
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
 - BuyaBitcoin - Australian cash to bitcoin exchange
+- [Buy Bitcoin Worldwide](https://www.buybitcoinworldwide.com/) - Bitcoin informational site
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
 - [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
 - CEX.io - Top global Bitcoin and crypto exchange
