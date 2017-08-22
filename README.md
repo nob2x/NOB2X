@@ -84,7 +84,7 @@
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
-- Samourai Wallet - Android Bitcoin wallet
+- [Samourai Wallet](https://samouraiwallet.com) - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
 - Slush Pool - Bitcoin mining pool
@@ -97,6 +97,7 @@
 - Volabit - Mexican Bitcoin exchange
 - Wall of Coins - Major US cash to Bitcoin exchange]
 - Walltime - Brazilian Bitcoin exchange
+- [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
 
