@@ -1,7 +1,7 @@
 
 ![](DG4IEcsUIAAje5w.jpg)
 
-# List of B2X **non** supporters.
+# List of companies that did not sign the NYA
 
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
