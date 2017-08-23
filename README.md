@@ -1,7 +1,8 @@
 
 ![](DG4IEcsUIAAje5w.jpg)
 
-# List of companies that did not sign the NYA *(aka B2X or SegWit2x)*
+# List of companies that did not sign the NYA 
+*(aka B2X or SegWit2x)*
 
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
