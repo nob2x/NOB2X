@@ -1,7 +1,7 @@
 
 ![](DG4IEcsUIAAje5w.jpg)
 
-# List of B2X **non** supporters.
+### List of companies that did not sign the NYA *(aka B2X or SegWit2x)*
 
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
@@ -36,8 +36,6 @@
 - Bitsewa - Nepal's largest Bitcoin exchange
 - Bitstamp - One of the world's largest Bitcoin exchanges
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
-- Bitt - Caribbean Bitcoin exchange
-- Bittrex - World's second largest cryptocurrency exchange
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
 - BuyaBitcoin - Australian cash to bitcoin exchange
 - [Buy Bitcoin Worldwide](https://www.buybitcoinworldwide.com/) - Bitcoin informational site
