@@ -90,6 +90,7 @@
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
 - [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
+- United Bitcoiners - Micropayment solutions based in Japan
 - Urdubit - Bitcoin exchange based in Pakistan
 - Vaultoro - Gold/bitcoin exchange
 - VirWoX - World's largest Paypal to Bitcoin exchange
