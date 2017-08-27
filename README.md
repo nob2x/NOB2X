@@ -58,6 +58,7 @@
 - [Denarium](https://denarium.com) - Physical BTC coins
 - [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
 - Electrum - Bitcoin desktop wallet
+- [Flyp.me](https://flyp.me) - Accountless crypto-to-crypto exchange
 - FOXBIT - Brazilian Bitcoin exchange
 - Gatecoin - Bitcoin exchange
 - Gemini - One of the world's largest Bitcoin exchanges
