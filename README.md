@@ -60,6 +60,7 @@
 - [Denarium](https://denarium.com) - Physical BTC coins
 - [Digitalbitbox](http://digitalbitbox.com) - Bitcoin hardware wallet
 - Electrum - Bitcoin desktop wallet
+- [F2Pool](https://www.coindesk.com/f2pool-reneges-mining-pool-pulls-segwit2x-support-hard-fork/) - Mining Pool
 - [Flyp.me](https://flyp.me) - Accountless crypto-to-crypto exchange
 - FOXBIT - Brazilian Bitcoin exchange
 - Gemini - One of the world's largest Bitcoin exchanges
