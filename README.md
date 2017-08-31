@@ -45,6 +45,7 @@
 - [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - Coin Loft - Australian cash to Bitcoin exchange
+- [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - Coincheck - One of Japan's largest Bitcoin exchanges
 - CoinCorner - European Bitcoin broker
 - Coinfloor - European Bitcoin broker and exchange
@@ -53,6 +54,7 @@
 - CoinJar - Australian Bitcoin broker
 - [Coinkite](https://coinkite.com) - Bitcoin infrastructure solutions
 - CoinMama - One of the world's largest credit card to Bitcoin brokers
+- [CryptoAsylum](http://www.cryptoasylum.ca) - Official Reseller of Hardware Wallets
 - Cryptobuyer - Venezeulan Bitcoin exchange
 - Cubits - European Bitcoin broker
 - [Denarium](https://denarium.com) - Physical BTC coins
