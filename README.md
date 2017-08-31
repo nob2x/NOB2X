@@ -79,6 +79,7 @@
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - [OXT](https://oxt.me) - Blockchain explorer
+- Ozzie Bitcoins - Bitcoin and Monero trader based in Australia
 - [Paycase](https://paycase.com) - Paycase Remit
 - Paymium - Bitcoin broker based in France
 - Poloniex - World's largest cryptocurrency exchange
