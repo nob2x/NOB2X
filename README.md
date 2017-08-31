@@ -60,7 +60,6 @@
 - Electrum - Bitcoin desktop wallet
 - [Flyp.me](https://flyp.me) - Accountless crypto-to-crypto exchange
 - FOXBIT - Brazilian Bitcoin exchange
-- Gatecoin - Bitcoin exchange
 - Gemini - One of the world's largest Bitcoin exchanges
 - GreenAddress - Bitcoin web wallet
 - [HolyTransaction](https://holytransaction.com) - One of the oldest multi-currency web wallet
