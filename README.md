@@ -89,6 +89,7 @@
 - [Samourai Wallet](https://samouraiwallet.com) - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
+- [Signatura](https://signatura.co) - Blockchain-based digital signatures
 - Slush Pool - Bitcoin mining pool
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
