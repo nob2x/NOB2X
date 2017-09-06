@@ -3,6 +3,7 @@
 
 ### List of companies that did not sign the NYA *(aka B2X or SegWit2x)*
 
+- **[Add Your name too ➕](https://github.com/nob2x/NOB2X/pulls?q=is%3Apr+add+is%3Aclosed)**
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
 - [Azteco](https://azte.co) - Consumer Bitcoin
