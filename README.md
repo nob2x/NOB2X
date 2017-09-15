@@ -98,7 +98,6 @@
 - [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
 - United Bitcoiners - Micropayment solutions based in Japan
 - Urdubit - Bitcoin exchange based in Pakistan
-- Vaultoro - Gold/bitcoin exchange
 - VirWoX - World's largest Paypal to Bitcoin exchange
 - Volabit - Mexican Bitcoin exchange
 - Wall of Coins - Major US cash to Bitcoin exchange]
