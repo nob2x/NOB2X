@@ -103,6 +103,7 @@
 - Volabit - Mexican Bitcoin exchange
 - Wall of Coins - Major US cash to Bitcoin exchange]
 - Walltime - Brazilian Bitcoin exchange
+- Wayniloans - Payment processor 
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
