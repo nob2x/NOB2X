@@ -44,7 +44,7 @@
 - [Catallaxy](http://catallaxy.com) - Blockchain solutions and support
 - CEX.io - Top global Bitcoin and crypto exchange
 - [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
-- [Chainside](https://www.chainside.net/) - Payment pricessor 
+- [Chainside](https://www.chainside.net/) - Payment processor 
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
