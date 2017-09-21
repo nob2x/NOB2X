@@ -93,6 +93,7 @@
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
 - [Signatura](https://signatura.co) - Blockchain-based digital signatures
+- [Simple Bitcoin Wallet](https://btcontract.com/#trusted-node) - Android Bitcoin wallet
 - Slush Pool - Bitcoin mining pool
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
