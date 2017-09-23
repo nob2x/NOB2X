@@ -15,6 +15,7 @@
 - Bitaccess - Canadian Bitcoin ATM network
 - BitBargain - UK Bitcoin exchange
 - [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
+- [BitBond](https://www.bitbond.com/) - Peer-to-peer Bitcoin loans
 - [BitcoinBrains](http://bitcoinbrains.com) - Canada ATMs and online brokerage service
 - Bitcoin Cambodia - Cambodian Bitcoin broker
 - Bitcoin Romania - Largest Romanian Bitcoin exchange & broker
@@ -97,6 +98,7 @@
 - [Simple Bitcoin Wallet](https://btcontract.com/#trusted-node) - Android Bitcoin wallet
 - Slush Pool - Bitcoin mining pool
 - SurBitcoin - Venezuela's largest Bitcoin exchange
+- [TenX](https://www.tenx.tech/) - Bitcoin wallet with physical debit card
 - TREZOR - Hardware Bitcoin wallet
 - [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
 - United Bitcoiners - Micropayment solutions based in Japan
