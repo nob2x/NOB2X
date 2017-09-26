@@ -106,6 +106,7 @@
 - Urdubit - Bitcoin exchange based in Pakistan
 - VirWoX - World's largest Paypal to Bitcoin exchange
 - Volabit - Mexican Bitcoin exchange
+- Vaultoro
 - Wall of Coins - Major US cash to Bitcoin exchange]
 - Walltime - Brazilian Bitcoin exchange
 - Wayniloans - Payment processor 
