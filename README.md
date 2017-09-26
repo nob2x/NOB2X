@@ -69,6 +69,7 @@
 - FOXBIT - Brazilian Bitcoin exchange
 - Gemini - One of the world's largest Bitcoin exchanges
 - GreenAddress - Bitcoin web wallet
+- [Helperbit](https://helperbit.com) - P2P transparent donation and insurance platform
 - [HolyTransaction](https://holytransaction.com) - One of the oldest multi-currency web wallet
 - itBit - OTC Bitcoin trading
 - [inbitcoin](https://inbitcoin.it) - Payment processor and bitcoin wallet
