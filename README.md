@@ -26,6 +26,7 @@
 - [BitcoinSolutions](http://bitcoinsolutions.ca) - Buy and sell bitcoin online and at Canada ATMs
 - Bitfinex - One of the world's largest Bitcoin exchanges
 - Bitit - European Bitcoin broker
+- [BitKong](https://bitkong.com) - Fun & Addictive, provably fair bitcoin game
 - [BitNational](https://bitnational.com) - Canada's Bitcoin ATM network
 - [Bitonic](https://bitonic.nl/en/news/138/our-position-on-scaling-proposals) - Dutch Bitcoin broker
 - BitPanda - One of Europe's largest Bitcoin brokers
