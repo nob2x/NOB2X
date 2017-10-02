@@ -51,6 +51,7 @@
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - Coincheck - One of Japan's largest Bitcoin exchanges
 - CoinCorner - European Bitcoin broker
+- [CoinFalcon](https://coinfalcon.com) - European Bitcoin exchange
 - Coinfloor - European Bitcoin broker and exchange
 - CoinHako - One of Singapore's largest Bitcoin exchanges
 - coinhouse - Credit card to Bitcoin broker run by Ledger
