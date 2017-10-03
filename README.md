@@ -60,6 +60,7 @@
 - CoinMama - One of the world's largest credit card to Bitcoin brokers
 - [CryptoAsylum](http://www.cryptoasylum.ca) - Official Reseller of Hardware Wallets
 - Cryptobuyer - Venezeulan Bitcoin exchange
+- CryptoFacilities - Broker specializing in bitcoin derivatives
 - [Cryptopay](https://cryptopay.me/) - Bitcoin Wallet & Debit Card.
 - Cubits - European Bitcoin broker
 - [Denarium](https://denarium.com) - Physical BTC coins
