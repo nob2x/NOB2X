@@ -4,6 +4,7 @@
 ### List of companies that did not sign or dropped from the NYA *(aka B2X or SegWit2x)*
 
 - **[Add your name too ➕](https://github.com/nob2x/NOB2X/pulls?q=is%3Apr+add+is%3Aclosed)**
+- [99Bitcoins](https://99bitcoins.com) - Bitcoin blog and information site
 - [2Bitcoins](https://2bitcoins.ru) - Russian Bitcoin news and mining portal
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
 - Anycoin Direct - European Bitcoin broker
