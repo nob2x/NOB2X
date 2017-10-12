@@ -119,7 +119,7 @@
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
-
+- GreenlawnGs - First non tech company to accept bitcoin in N Ireland
 ### Need clarification:
 
 - Huobi - Chinese Bitcoin exchange
