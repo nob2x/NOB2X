@@ -63,6 +63,7 @@
 - [Coinkite](https://coinkite.com) - Bitcoin infrastructure solutions
 - CoinMama - One of the world's largest credit card to Bitcoin brokers
 - [CryptoAsylum](http://www.cryptoasylum.ca) - Official Reseller of Hardware Wallets
+- [Crypto.bg](https://crypto.bg/) - Leading bitcoin exchange broker in Bulgaria
 - Cryptobuyer - Venezeulan Bitcoin exchange
 - CryptoFacilities - Broker specializing in bitcoin derivatives
 - [Cryptopay](https://cryptopay.me/) - Bitcoin Wallet & Debit Card.
