@@ -20,6 +20,7 @@
 - BitBargain - UK Bitcoin exchange
 - [BitBay](https://twitter.com/BitBayofficial/status/896085144913694720) - Bitcoin broker based in Poland
 - [BitBond](https://www.bitbond.com/) - Peer-to-peer Bitcoin loans
+- [Bitmex](https://www.bitmex.com/) - Bitcoin Exchange
 - [BitcoinBrains](http://bitcoinbrains.com) - Canada ATMs and online brokerage service
 - Bitcoin Cambodia - Cambodian Bitcoin broker
 - Bitcoin Romania - Largest Romanian Bitcoin exchange & broker
