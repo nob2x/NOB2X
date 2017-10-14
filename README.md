@@ -130,9 +130,9 @@
 
 ### Meetup groups and other organizations:
 
-- [Bitcoin Munich Meetup](https://twitter.com/bitcoinerrorlog/status/895335674471043073)
-- [laBITconf](https://twitter.com/bitcoinerrorlog/status/895335674471043073)
-- [Seoul Bitcoin Meetup](https://twitter.com/bitcoinerrorlog/status/895335674471043073)
+- [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
+- [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
+- [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201)
 
 ### Need clarification:
 
