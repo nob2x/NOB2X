@@ -132,7 +132,7 @@
 
 - [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
 - [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
-- [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201)
+- [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201) (meetup group with more than 1600 members)
 
 ### Need clarification:
 
