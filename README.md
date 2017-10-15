@@ -81,6 +81,7 @@
 - FOXBIT - Brazilian Bitcoin exchange
 - Gemini - One of the world's largest Bitcoin exchanges
 - GreenAddress - Bitcoin web wallet
+- GreenlawnGs - First non tech company to accept bitcoin in N Ireland
 - [Helperbit](https://helperbit.com) - P2P transparent donation and insurance platform
 - [HolyTransaction](https://holytransaction.com) - One of the oldest multi-currency web wallet
 - itBit - OTC Bitcoin trading
@@ -126,13 +127,12 @@
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
-- GreenlawnGs - First non tech company to accept bitcoin in N Ireland
 
 ### Meetup groups and other organizations:
 
 - [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
 - [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
-- [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201)
+- [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201) (meetup group with more than 1600 members)
 
 ### Need clarification:
 
