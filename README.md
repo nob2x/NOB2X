@@ -89,7 +89,7 @@
 - [HolyTransaction](https://holytransaction.com) - One of the oldest multi-currency web wallet
 - itBit - OTC Bitcoin trading
 - [inbitcoin](https://inbitcoin.it) - Payment processor and bitcoin wallet
-- Karsha - Bitcoin exchange
+- [Karsha Exchange](https://karsha.biz) - Largest Bitcoin exchange in the Middle East
 - Kraken - World's largest EUR Bitcoin exchange based on volume
 - LakeBTC - Bitcoin exchange
 - LibertyX - Major US cash to Bitcoin exchange
