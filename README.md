@@ -13,6 +13,7 @@
 - Anycoin Direct - European Bitcoin broker
 - [Article Project](https://itunes.apple.com/us/app/article-project/id1290614799?mt=8) - Bitcoin Microblog
 - [Azteco](https://azte.co) - Consumer Bitcoin
+- [Bad Bitcoin](http://badbitcoin.org/) - resource for bitcoin bad sites
 - Belgacoin - Large European Bitcoin exchange/broker
 - [Bernstein](https://www.bernstein.io) - Blockchain-based solutions for intellectual property protection
 - [Bet King](https://betking.io/blog/segwit2x-hard-fork/) - Crowd funded Bitcoin casino
@@ -45,6 +46,7 @@
 - Bitrush - Dutch Bitcoin broker
 - Bits of Gold - Israel's largest Bitcoin broker
 - Bitsewa - Nepal's largest Bitcoin exchange
+- Bitsendal - (Bitwage in Brazil)
 - Bitstamp - One of the world's largest Bitcoin exchanges
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
@@ -56,6 +58,7 @@
 - [Chaincode](http://chaincode.com) - Bitcoin technologies R&D
 - [Chainside](https://www.chainside.net/) - Payment processor 
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
+- CoinBR - Bitcoin broker and wallet service
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - Coincheck - One of Japan's largest Bitcoin exchanges
@@ -98,6 +101,7 @@
 - Nairaex - Nigeria's largest Bitcoin exchange
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
+- OriginalMy - Blockchain services provider
 - [OXT](https://oxt.me) - Blockchain explorer
 - Ozzie Bitcoins - Bitcoin and Monero trader based in Australia
 - [Paycase](https://paycase.com) - Paycase Remit
