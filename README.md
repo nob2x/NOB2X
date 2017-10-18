@@ -120,6 +120,7 @@
 - VirWoX - World's largest Paypal to Bitcoin exchange
 - Volabit - Mexican Bitcoin exchange
 - Vaultoro
+- [Whalepool](https://twitter.com/whalepool/status/920683444895612928) - community of daytraders focused mainly on bitcoin
 - Wall of Coins - Major US cash to Bitcoin exchange]
 - Walltime - Brazilian Bitcoin exchange
 - Wayniloans - Payment processor 
