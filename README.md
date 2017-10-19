@@ -59,7 +59,6 @@
 - [Chainside](https://www.chainside.net/) - Payment processor 
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - CoinBR - Bitcoin broker and wallet service
-- [**coin**cafe](https://coincafe.com) - Fully Regulated Bitcoin Exchange and Wallet, based in New York City
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - Coincheck - One of Japan's largest Bitcoin exchanges
@@ -140,6 +139,8 @@
 - [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
 - [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
 - [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201) (meetup group with more than 1600 members)
+- [EspacioBitcoin](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
+- [Bitcoin Argentina Meetup](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
 
 ### Need clarification:
 
