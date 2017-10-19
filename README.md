@@ -59,6 +59,7 @@
 - [Chainside](https://www.chainside.net/) - Payment processor 
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - CoinBR - Bitcoin broker and wallet service
+- [**coin**cafe](https://coincafe.com) - Fully Regulated Bitcoin Exchange and Wallet, based in New York City
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - Coincheck - One of Japan's largest Bitcoin exchanges
