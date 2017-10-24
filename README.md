@@ -83,6 +83,7 @@
 - [F2Pool](https://www.coindesk.com/f2pool-reneges-mining-pool-pulls-segwit2x-support-hard-fork/) - Mining Pool
 - [Flyp.me](https://flyp.me) - Accountless crypto-to-crypto exchange
 - FOXBIT - Brazilian Bitcoin exchange
+- [Gatecoin](https://blog.gatecoin.com/gatecoin-will-not-support-the-segwit2x-b2x-hard-fork-acbab0985dc2) - Bitcoin Exchange
 - Gemini - One of the world's largest Bitcoin exchanges
 - GreenAddress - Bitcoin web wallet
 - GreenlawnGs - First non tech company to accept bitcoin in N Ireland
