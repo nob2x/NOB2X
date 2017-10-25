@@ -10,6 +10,7 @@
 - [99Bitcoins](https://99bitcoins.com) - Bitcoin blog and information site
 - [2Bitcoins](https://2bitcoins.ru) - Russian Bitcoin news and mining portal
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
+- [ANXPro](http://preview.mailerlite.com/d7z4j4/736750909043771386/o3p1/) - Bitcoin exchange
 - Anycoin Direct - European Bitcoin broker
 - [Article Project](https://itunes.apple.com/us/app/article-project/id1290614799?mt=8) - Bitcoin Microblog
 - [Azteco](https://azte.co) - Consumer Bitcoin
