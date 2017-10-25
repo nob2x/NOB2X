@@ -123,6 +123,7 @@
 - TREZOR - Hardware Bitcoin wallet
 - [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
 - United Bitcoiners - Micropayment solutions based in Japan
+- [Unocoin](https://news.unocoin.com/?p=796) - Indian Bitcoin exchange
 - Urdubit - Bitcoin exchange based in Pakistan
 - VirWoX - World's largest Paypal to Bitcoin exchange
 - Volabit - Mexican Bitcoin exchange
