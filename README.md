@@ -76,6 +76,7 @@
 - [Crypto.bg](https://crypto.bg/) - Leading bitcoin exchange broker in Bulgaria
 - Cryptobuyer - Venezeulan Bitcoin exchange
 - CryptoFacilities - Broker specializing in bitcoin derivatives
+- [Cryptomover](https://medium.com/cryptomover/its-the-forking-bitcoin-index-ad1e4f5dbfd0) - Cryptocurrency Index
 - [Cryptopay](https://cryptopay.me/) - Bitcoin Wallet & Debit Card.
 - Cubits - European Bitcoin broker
 - [Denarium](https://denarium.com) - Physical BTC coins
@@ -86,6 +87,7 @@
 - FOXBIT - Brazilian Bitcoin exchange
 - [Gatecoin](https://blog.gatecoin.com/gatecoin-will-not-support-the-segwit2x-b2x-hard-fork-acbab0985dc2) - Bitcoin Exchange
 - Gemini - One of the world's largest Bitcoin exchanges
+- [Genesis Block](https://www.genesisblockhk.com/) - ATM provider
 - GreenAddress - Bitcoin web wallet
 - GreenlawnGs - First non tech company to accept bitcoin in N Ireland
 - [Helperbit](https://helperbit.com) - P2P transparent donation and insurance platform
@@ -121,6 +123,7 @@
 - Slush Pool - Bitcoin mining pool
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - [TenX](https://www.tenx.tech/) - Bitcoin wallet with physical debit card
+- [TideBit](https://www.tidebit.com/) -  Bitcoin exchange
 - TREZOR - Hardware Bitcoin wallet
 - [The Bitcoin Report](http://www.thebitcoinreport.nl/) - Media Company
 - United Bitcoiners - Micropayment solutions based in Japan
