@@ -106,6 +106,7 @@
 - Mycelium - Popular Android Bitcoin wallet
 - Nairaex - Nigeria's largest Bitcoin exchange
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
+- [OKCoin](https://twitter.com/OKEx_/status/923366605320372224) - Bitcoin exchange
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - OriginalMy - Blockchain services provider
 - [OXT](https://oxt.me) - Blockchain explorer
@@ -154,7 +155,6 @@
 ### Need clarification:
 
 - Huobi - Chinese Bitcoin exchange
-- OKCoin - Chinese Bitcoin exchange
 
 ### Does not run full nodes:
 
