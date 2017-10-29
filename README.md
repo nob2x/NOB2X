@@ -103,6 +103,7 @@
 - MaiCoin - Taiwanese Bitcoin exchange
 - Mercado Bitcoin - Brazilian Bitcoin exchange
 - [Metaco](https://metaco.com) - Payment solutions
+- [MojBitcoin](http://www.mojbitcoin.sk) - 1st Bitcoin ATM in Europe
 - Mycelium - Popular Android Bitcoin wallet
 - Nairaex - Nigeria's largest Bitcoin exchange
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
