@@ -149,6 +149,7 @@
 - [Bitcoin Association of Hong Kong](https://www.bitcoinhk.org/segwit2x-statement/)
 - [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
 - [EspacioBitcoin](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
+- [Italian Bitcoin Community](https://medium.com/@BHBnetwork/italian-community-no2x-statement-d14cd06fcc6a)
 - [Israeli Bitcoin Association](https://bitcoin.org.il/files/IBA_Statement_Segwit2x.pdf)
 - [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
 - [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201) (meetup group with more than 1600 members)
