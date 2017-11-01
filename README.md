@@ -64,7 +64,7 @@
 - [coincafe](https://coincafe.com) - Fully Regulated Bitcoin Exchange and Wallet, based in New York City
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
-- Coincheck - One of Japan's largest Bitcoin exchanges
+- [Coincheck](https://coincheck.com/en/blog/4539) - One of Japan's largest Bitcoin exchanges
 - CoinCorner - European Bitcoin broker
 - [CoinFalcon](https://coinfalcon.com) - European Bitcoin exchange
 - Coinfloor - European Bitcoin broker and exchange
