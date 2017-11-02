@@ -150,6 +150,7 @@
 
 - [Bitcoin Argentina Meetup](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
 - [Bitcoin Association of Hong Kong](https://www.bitcoinhk.org/segwit2x-statement/)
+- [Bitcoin Manchester](http://www.bitcoinmanchester.org.uk/hardfork-statement/)
 - [Bitcoin Munich Meetup](https://i.imgur.com/WDK6Zed.jpg)
 - [EspacioBitcoin](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
 - [Italian Bitcoin Community](https://medium.com/@BHBnetwork/italian-community-no2x-statement-d14cd06fcc6a)
