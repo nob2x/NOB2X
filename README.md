@@ -66,6 +66,7 @@
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - [Coincheck](https://coincheck.com/en/blog/4539) - One of Japan's largest Bitcoin exchanges
 - CoinCorner - European Bitcoin broker
+- [CoinCooler](http://www.coincooler.com) - Bitcoin Cold Storage on an offline RaspberryPi
 - [CoinFalcon](https://coinfalcon.com) - European Bitcoin exchange
 - Coinfloor - European Bitcoin broker and exchange
 - CoinHako - One of Singapore's largest Bitcoin exchanges
