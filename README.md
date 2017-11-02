@@ -62,11 +62,11 @@
 - [Ciphrex](https://twitter.com/ciphrex/status/895161633005346817) - Wallet
 - CoinBR - Bitcoin broker and wallet service
 - [coincafe](https://coincafe.com) - Fully Regulated Bitcoin Exchange and Wallet, based in New York City
-- [CoinCooler](http://www.coincooler.com) - Bitcoin Cold Storage on an offline RaspberryPi
 - Coin Loft - Australian cash to Bitcoin exchange
 - [Coincards.ca](http://www.coincards.ca) - Canada's Bitcoin to Gift Card Exchange Service
 - [Coincheck](https://coincheck.com/en/blog/4539) - One of Japan's largest Bitcoin exchanges
 - CoinCorner - European Bitcoin broker
+- [CoinCooler](http://www.coincooler.com) - Bitcoin Cold Storage on an offline RaspberryPi
 - [CoinFalcon](https://coinfalcon.com) - European Bitcoin exchange
 - Coinfloor - European Bitcoin broker and exchange
 - CoinHako - One of Singapore's largest Bitcoin exchanges
