@@ -90,6 +90,7 @@
 - [Gatecoin](https://blog.gatecoin.com/gatecoin-will-not-support-the-segwit2x-b2x-hard-fork-acbab0985dc2) - Bitcoin Exchange
 - Gemini - One of the world's largest Bitcoin exchanges
 - [Genesis Block](https://www.genesisblockhk.com/) - ATM provider
+- [Golix.io](https://blog.golix.io/our-position-regarding-the-upcoming-bitcoin-fork-900494ae597f)
 - GreenAddress - Bitcoin web wallet
 - GreenlawnGs - First non tech company to accept bitcoin in N Ireland
 - [Helperbit](https://helperbit.com) - P2P transparent donation and insurance platform
