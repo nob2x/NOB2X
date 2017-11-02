@@ -111,6 +111,7 @@
 - Nairaex - Nigeria's largest Bitcoin exchange
 - [NeoDisrupt](https://neodisrupt.com) - Global cash to Bitcoin exchange, DAX and payment processing
 - [OKCoin](https://twitter.com/OKEx_/status/923366605320372224) - Bitcoin exchange
+- [OpenBazaar](https://medium.com/@brianhoffman/segwit2x-youre-fucked-if-you-do-you-re-fucked-if-you-don-t-6655a853d8e7)
 - [OpenTimestamps](https://opentimestamps.org) - Scalable timestamping with Bitcoin
 - OriginalMy - Blockchain services provider
 - [OXT](https://oxt.me) - Blockchain explorer
