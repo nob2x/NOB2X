@@ -51,6 +51,7 @@
 - Bitstamp - One of the world's largest Bitcoin exchanges
 - [Bitstop](https://twitter.com/bitstopofficial/status/895317733679669250) - Bitcoin ATM operator
 - [Blockstream](http://blockstream.com) - Blockchain technologies provider
+- [Blockchain Academy](https://block.academy) - Blockchain research & development and educational institution
 - BuyaBitcoin - Australian cash to bitcoin exchange
 - [Buy Bitcoin Worldwide](https://www.buybitcoinworldwide.com/) - Bitcoin informational site
 - [Bylls](https://twitter.com/francispouliot_/status/895682101911146497) - Pay bills using Bitcoin
