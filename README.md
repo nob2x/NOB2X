@@ -118,7 +118,7 @@
 - [OXT](https://oxt.me) - Blockchain explorer
 - Ozzie Bitcoins - Bitcoin and Monero trader based in Australia
 - [Paycase](https://paycase.com) - Paycase Remit
-- Paymium - Bitcoin broker based in France
+- [Paymium](https://paymium.com) - European Bitcoin exchange and broker since 2011
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
